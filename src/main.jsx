@@ -12,9 +12,7 @@ import About from './pages/about/About.jsx';
 import Contact from './pages/contact/Contact.jsx';
 import ShopPage from './pages/shop/ShopPage.jsx';
 
-import 'sweetalert2/dist/sweetalert2.min.css'
-
-
+import 'sweetalert2/dist/sweetalert2.min.css';
 
 const router = createBrowserRouter([
   {
